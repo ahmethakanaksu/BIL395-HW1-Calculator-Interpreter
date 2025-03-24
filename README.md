@@ -1,7 +1,7 @@
 # Simple Calculator Interpreter (Lex & Yacc)
 
-> **Student Name:** [Ahmet Hakan Aksu]  
-> **Student ID:** [191101068]  
+> **Student Name:** Ahmet Hakan Aksu  
+> **Student ID:** 191101068  
 > **Course:** Programming Languages  
 
 This project implements a simple calculator interpreter using Lex and Yacc (Flex and Bison). It supports arithmetic expressions, floating-point numbers, exponentiation, smart output formatting, and robust error handling.
@@ -178,6 +178,14 @@ Result: 28
 
 ---
 
+### Test with a file:
+
+```bash
+./calculator < test_cases.txt
+
+
+---
+
 ## Notes
 
 - Whitespace is ignored.
@@ -188,8 +196,8 @@ Result: 28
 
 ## Author
 
-**Name:** [Ahmet Hakan Aksu]  
-**Student Number:** [191101068]  
+**Name:** Ahmet Hakan Aksu  
+**Student Number:** 191101068  
 **Course:** Programming Languages  
 
 ---
