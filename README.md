@@ -26,9 +26,11 @@ Implement a simple calculator using Lex and Yacc to:
 ✔️ Parentheses for grouping  
 ✔️ Exponentiation operator `^` (Bonus)  
 ✔️ Division by zero detection  
+
 ✔️ Smart output formatting:
   - Print integers as `int`
   - Print floats with decimals  
+
 ✔️ Clear error messages for:
   - Invalid syntax
   - Invalid characters
