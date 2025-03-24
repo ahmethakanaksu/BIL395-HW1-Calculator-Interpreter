@@ -181,7 +181,7 @@ Result: 28
 
 ```bash
 ./calculator < test_cases.txt
-
+```
 
 ---
 
