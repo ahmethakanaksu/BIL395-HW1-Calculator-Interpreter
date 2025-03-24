@@ -54,6 +54,7 @@ calculator/
 ├── calculator.l       # Lex file
 ├── calculator.y       # Yacc file
 ├── README.md          # Project documentation
+├── test_cases.txt     # Test cases text file
 ```
 
 ---
