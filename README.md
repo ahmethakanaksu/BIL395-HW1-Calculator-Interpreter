@@ -78,11 +78,10 @@ sudo apt install flex bison gcc
 
 ## Build & Run Instructions
 
-Clone the project and enter the directory:
+Clone the project:
 
 ```bash
-git clone https://github.com/yourusername/calculator.git
-cd calculator
+git clone https://github.com/ahmethakanaksu/BIL395-HW1-Calculator-Interpreter.git
 ```
 
 ### Compilation
@@ -100,6 +99,14 @@ gcc lex.yy.c y.tab.c -o calculator -lm  # -lm is required
 ```
 
 Then enter any arithmetic expression and press Enter.
+
+---
+
+### Test with a file:
+
+```bash
+./calculator < test_cases.txt
+```
 
 ---
 
@@ -174,13 +181,6 @@ Result: 94
 
 (((1 + 2) * 3 - 4) / 2) ^ 2 + (6 / 3) * (7 - 5)
 Result: 28
-```
-
-
-### Test with a file:
-
-```bash
-./calculator < test_cases.txt
 ```
 
 ---
