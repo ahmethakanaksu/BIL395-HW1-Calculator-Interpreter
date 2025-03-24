@@ -93,7 +93,7 @@ git clone https://github.com/ahmethakanaksu/BIL395-HW1-Calculator-Interpreter.gi
 ```bash
 lex calculator.l
 yacc -d calculator.y
-gcc lex.yy.c y.tab.c -o calculator -lm  # -lm is required
+gcc lex.yy.c y.tab.c -o calculator -lm
 ```
 
 ### Run
