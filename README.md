@@ -84,7 +84,8 @@ Clone the project:
 git clone https://github.com/ahmethakanaksu/BIL395-HW1-Calculator-Interpreter.git
 ```
 
-### Compilation
+### Compilation (⚠️ Important: You must compile with the math library using `-lm`)
+
 
 ```bash
 lex calculator.l
