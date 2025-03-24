@@ -123,7 +123,7 @@ Then enter any arithmetic expression and press Enter.
 Result: 8
 
 7.5 * 2
-Result: 15.000000
+Result: 15
 ```
 
 ### Parentheses
