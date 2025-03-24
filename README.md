@@ -176,7 +176,6 @@ Result: 94
 Result: 28
 ```
 
----
 
 ### Test with a file:
 
