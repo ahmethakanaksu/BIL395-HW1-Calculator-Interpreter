@@ -184,7 +184,7 @@ Parse error: syntax error
 Result: 94
 
 (((1 + 2) * 3 - 4) / 2) ^ 2 + (6 / 3) * (7 - 5)
-Result: 28
+Result: 10.250000
 ```
 
 ---
